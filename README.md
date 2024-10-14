@@ -4,7 +4,7 @@ Project Vision:
 
 1. Craft a detailed and insightful  https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf
 
-2. Deliver a sharp comparison between  for clear, data-driven insights.
+2. Deliver a sharp comparison between https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20%20Report.pdf]  for clear, data-driven insights.
 
 Why Sales Analytics Matters: Equip businesses with the power to not just track, but truly understand and elevate their sales performance, ensuring every decision is rooted in solid data.
 
