@@ -21,7 +21,9 @@ Unlock better customer discounts, enhance negotiation strategies, and identify u
 
 Finance Report:
 
+
 Project Vision:
+
 
 1. Develop Profit and Loss (P&L) statements that break down financial performance [by Fiscal Year](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf) [by Month](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
 
@@ -30,11 +32,17 @@ Project Vision:
 
 
 
-Purpose of Financial Analytics: Provide a clear, concise evaluation of the financial landscape to drive strategic decisions, ensuring stakeholders are well-informed and confident.
+Purpose of Financial Analytics:
 
-Why Financial Data Analysis is Crucial: Benchmark your company’s performance against industry standards and historical periods to guide precise budgeting and forecasting.
+Offer a concise evaluation of the financial landscape to inform strategic decisions and build stakeholder confidence.
 
-The Role of These Reports: Align financial goals with broader business strategies, creating a clear financial roadmap that builds stakeholder trust and positions the company for long-term success.
+Why Financial Data Analysis is Crucial:
+
+Benchmark performance against industry standards and historical data to guide budgeting and forecasting.
+
+The Role of These Reports:
+
+Align financial objectives with broader business strategies, creating a roadmap that fosters trust and supports long-term success.
 
 Technical Expertise:
 
