@@ -1,7 +1,6 @@
 # Excel-Sales-Analytics
 ## Sales Report:
 
-## Project Vision:
 
 Craft a detailed and insightful [customer performance report](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
@@ -21,8 +20,6 @@ Unlock better customer discounts, enhance negotiation strategies, and identify u
 
 ## Finance Report:
 
-
-## Project Vision:
 
  Develop Profit and Loss (P&L) statements that break down financial performance [by Fiscal Year](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf) [by Month](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
 
