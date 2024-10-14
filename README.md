@@ -3,7 +3,7 @@ Sales Report:
 
 Project Vision:
 
-1. Craft a detailed and insightful [customer performance report]  https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf
+1. Craft a detailed and insightful [customer performance report] (https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
 2. Deliver a sharp comparison between https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20%20Report.pdf]  for clear, data-driven insights.
 
