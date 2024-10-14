@@ -17,7 +17,8 @@ Finance Report:
 
 Project Vision:
 
-1. Develop Profit and Loss (P&L) statements that break down financial performance by Fiscal Year https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf and Month.
+1. Develop Profit and Loss (P&L) statements that break down financial performance [by Fiscal Year](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf) [by Month](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
+
 
 2. Generate Profit and Loss (P&L) reports tailored to Market Performance for a nuanced view of profitability.
 
