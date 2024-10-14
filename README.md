@@ -20,7 +20,9 @@ Project Vision:
 1. Develop Profit and Loss (P&L) statements that break down financial performance [by Fiscal Year](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf) [by Month](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
 
 
-2. Generate Profit and Loss (P&L) reports tailored to [Markets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%26%20L%20by%20Markets.pdf for a nuanced view of profitability.)
+2. Generate Profit and Loss (P&L) reports tailored to [Markets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%26%20L%20by%20Markets.pdf)
+
+
 
 Purpose of Financial Analytics: Provide a clear, concise evaluation of the financial landscape to drive strategic decisions, ensuring stakeholders are well-informed and confident.
 
