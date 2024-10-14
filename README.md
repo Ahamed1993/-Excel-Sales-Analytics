@@ -7,11 +7,14 @@ Project Vision:
 
 2. Deliver a sharp comparison betwee [market performance and targets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20%20Report.pdf)
 
-Why Sales Analytics Matters: Equip businesses with the power to not just track, but truly understand and elevate their sales performance, ensuring every decision is rooted in solid data.
+Why Sales Analytics Matters:
+Empower businesses to track and understand their sales performance, ensuring data-driven decisions.
 
-The Impact of Sales Data Analysis: Reveal hidden trends, spotlight key performance indicators (KPIs), and refine strategies based on patterns that drive success.
+The Impact of Sales Data Analysis:
+Uncover hidden trends, highlight key performance indicators (KPIs), and refine strategies that drive success.
 
-How These Reports Add Value: Unlock better customer discounts, sharpen negotiation strategies, and discover untapped markets that are ripe for expansion, setting the stage for future growth.
+How These Reports Add Value:
+Unlock better customer discounts, enhance negotiation strategies, and identify untapped markets for growth.
 
 Finance Report:
 
