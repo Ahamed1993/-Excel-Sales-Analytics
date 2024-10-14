@@ -1,5 +1,6 @@
 # Excel-Sales-Analytics
 Sales Report:
+
 Project Vision:
 
 1. Craft a detailed and insightful  https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf
@@ -13,6 +14,7 @@ The Impact of Sales Data Analysis: Reveal hidden trends, spotlight key performan
 How These Reports Add Value: Unlock better customer discounts, sharpen negotiation strategies, and discover untapped markets that are ripe for expansion, setting the stage for future growth.
 
 Finance Report:
+
 Project Vision:
 
 1. Develop Profit and Loss (P&L) statements that break down financial performance by Fiscal Year and Month.
