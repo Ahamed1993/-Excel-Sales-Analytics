@@ -31,6 +31,7 @@ Why Financial Data Analysis is Crucial: Benchmark your company’s performance a
 The Role of These Reports: Align financial goals with broader business strategies, creating a clear financial roadmap that builds stakeholder trust and positions the company for long-term success.
 
 Technical Expertise:
+
 🔄 Expert-level command of ETL (Extract, Transform, Load) processes.
 
 📅 Skilled in constructing date tables using Power Query.
@@ -44,7 +45,12 @@ Technical Expertise:
 🧮 Using DAX to create calculated columns that add depth to data analysis.
 
 Core Soft Skills:
+
 🧠 Strong understanding of Sales and Finance Reports with a strategic mindset.
+
 🎯 Designing intuitive, user-focused reports that deliver clarity and value.
+
 ⚙️ Fine-tuning reports for maximum efficiency and accuracy.
-📝 Creating a systematic approach to report generation that ensures precision..
+
+📝 Creating a systematic approach to report generation that ensures precision.
+
