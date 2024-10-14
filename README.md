@@ -3,9 +3,9 @@ Sales Report:
 
 Project Vision:
 
-1.   Craft a detailed and insightful [customer performance report](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
+Craft a detailed and insightful [customer performance report](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
-2.   Deliver a sharp comparison betwee [market performance and targets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20%20Report.pdf)
+Deliver a sharp comparison betwee [market performance and targets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20%20Report.pdf)
 
 Why Sales Analytics Matters:
 
@@ -24,11 +24,9 @@ Finance Report:
 
 Project Vision:
 
+ Develop Profit and Loss (P&L) statements that break down financial performance [by Fiscal Year](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf) [by Month](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
 
-1. Develop Profit and Loss (P&L) statements that break down financial performance [by Fiscal Year](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Years.pdf) [by Month](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
-
-
-2. Generate Profit and Loss (P&L) reports tailored to [Markets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%26%20L%20by%20Markets.pdf)
+ Generate Profit and Loss (P&L) reports tailored to [Markets](https://github.com/Ahamed1993/-Excel-Sales-Analytics/blob/main/P%26%20L%20by%20Markets.pdf)
 
 
 
