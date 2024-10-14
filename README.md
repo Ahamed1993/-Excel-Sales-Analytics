@@ -32,10 +32,15 @@ The Role of These Reports: Align financial goals with broader business strategie
 
 Technical Expertise:
 🔄 Expert-level command of ETL (Extract, Transform, Load) processes.
+
 📅 Skilled in constructing date tables using Power Query.
+
 📊 Proficient in calculating fiscal months and quarters.
+
 🔗 Competent in building and managing data model relationships with Power Pivot.
+
 ➕ Seamlessly integrating additional data into existing models.
+
 🧮 Using DAX to create calculated columns that add depth to data analysis.
 
 Core Soft Skills:
